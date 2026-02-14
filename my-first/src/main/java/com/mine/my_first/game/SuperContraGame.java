@@ -2,7 +2,7 @@ package com.mine.my_first.game;
 
 public class SuperContraGame implements GamingConsole{
 	public void up() {
-		System.out.println("Up");
+		System.out.println("Go Up");
 	}
 	
 	public void down() {
